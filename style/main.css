@@ -329,17 +329,20 @@ hr {
     z-index: 10;
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
-    background:url("https://www.goodlucktripjapan.com/data/article/12000/11250/20170114_061130_b109003b_wh800.jpg");
-    background-size:cover;
+    background: url("https://img.mable.tw/uploads/20180208155057_57.jpg");
+    background-size: cover;
+    color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background:url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Zippys_Zip_Pac.jpg/1200px-Zippys_Zip_Pac.jpg");
-    background-size:cover;
+    background: url("https://pic.pimg.tw/cherrieeat/1509644786-3728189498_l.jpg");
+    background-size: cover;
+    color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background:url("https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2018/04/13/99/4648919.jpg&x=0&y=0&sw=0&sh=0&exp=3600");
-    background-size:cover;
-}    
+    background: url("https://img.mable.tw/uploads/20180208155140_63.jpg");
+    background-size: cover;
+    color: rgb(0,0,0,0);
+}  
    .tile.tile-16 .tile-inner {
     background: url("https://d3l76hx23vw40a.cloudfront.net/recipe/ck62-012.jpg");
     background-size: cover;
