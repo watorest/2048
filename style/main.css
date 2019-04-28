@@ -339,50 +339,61 @@ hr {
   .tile.tile-8 .tile-inner {
     background:url("https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2018/04/13/99/4648919.jpg&x=0&y=0&sw=0&sh=0&exp=3600");
     background-size:cover;
-  .tile.tile-16 .tile-inner {
-    background:url("https://d3l76hx23vw40a.cloudfront.net/recipe/ck84-021.jpg");
-    background-size:cover;
+   .tile.tile-16 .tile-inner {
+    background: url("https://d3l76hx23vw40a.cloudfront.net/recipe/ck62-012.jpg");
+    background-size: cover;
+    color: rgb(0,0,0,0);
+}
   .tile.tile-32 .tile-inner {
-    background:url("https://img.ltn.com.tw/Upload/liveNews/BigPic/600_2502439_1.jpg");
-    background-size:cover;
+    background: url("https://img.ltn.com.tw/Upload/liveNews/BigPic/600_2502439_1.jpg");
+    background-size: cover;
+    color: rgb(0,0,0,0);
+}
   .tile.tile-64 .tile-inner {
-    background:url("https://d3l76hx23vw40a.cloudfront.net/recipe/ck62-012.jpg");
-    background-size:cover;
+    background: url("https://d3l76hx23vw40a.cloudfront.net/recipe/ck84-021.jpg");
+    background-size: cover;
+    color: rgb(0,0,0,0);
+}
   .tile.tile-128 .tile-inner {
-    color: #f9f6f2;
-    background: #edcf72;
+    background: url("https://img.kafkalin.com/uploads/20180920221306_69.jpg");
+    background-size: cover;
+    color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-128 .tile-inner {
         font-size: 25px; } }
   .tile.tile-256 .tile-inner {
-    color: #f9f6f2;
-    background: #edcc61;
+    background: url("https://img.nurseilife.cc/20161225021359_85.jpg");
+    background-size: cover;
+    color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-256 .tile-inner {
         font-size: 25px; } }
   .tile.tile-512 .tile-inner {
-    color: #f9f6f2;
-    background: #edc850;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxxqhg2UeVwlLuXVteiii6Eqo5Il-8DywkEZINDqNp49RBRaWk_Q");
+    background-size: cover;
+    color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
     font-size: 45px; }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
         font-size: 25px; } }
   .tile.tile-1024 .tile-inner {
-    color: #f9f6f2;
-    background: #edc53f;
+    background: url("https://image.cache.storm.mg/styles/smg-800x533-fp/s3/media/image/2016/07/21/20160721-072549_U3927_M177680_2bed.jpg?itok=hM1Kuo0I");
+    background-size: cover;
+    color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
       .tile.tile-1024 .tile-inner {
         font-size: 15px; } }
   .tile.tile-2048 .tile-inner {
-    color: #f9f6f2;
-    background: #edc22e;
+    background: url("https://img.ltn.com.tw/Upload/liveNews/BigPic/600_phphyv1ev.jpg");
+    background-size: cover;
+    color: rgb(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 35px; }
     @media screen and (max-width: 520px) {
