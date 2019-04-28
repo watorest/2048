@@ -339,6 +339,7 @@ hr {
   .tile.tile-8 .tile-inner {
     background:url("https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2018/04/13/99/4648919.jpg&x=0&y=0&sw=0&sh=0&exp=3600");
     background-size:cover;
+}    
    .tile.tile-16 .tile-inner {
     background: url("https://d3l76hx23vw40a.cloudfront.net/recipe/ck62-012.jpg");
     background-size: cover;
