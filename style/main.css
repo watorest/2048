@@ -333,20 +333,21 @@ hr {
     background-size:cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: #ede0c8;
+    background:url("https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Zippys_Zip_Pac.jpg/1200px-Zippys_Zip_Pac.jpg");
+    background-size:cover;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    color: #f9f6f2;
-    background: #f2b179; }
+    background:url("https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2018/04/13/99/4648919.jpg&x=0&y=0&sw=0&sh=0&exp=3600");
+    background-size:cover;
   .tile.tile-16 .tile-inner {
-    color: #f9f6f2;
-    background: #f59563; }
+    background:url("https://d3l76hx23vw40a.cloudfront.net/recipe/ck84-021.jpg");
+    background-size:cover;
   .tile.tile-32 .tile-inner {
-    color: #f9f6f2;
-    background: #f67c5f; }
+    background:url("https://img.ltn.com.tw/Upload/liveNews/BigPic/600_2502439_1.jpg");
+    background-size:cover;
   .tile.tile-64 .tile-inner {
-    color: #f9f6f2;
-    background: #f65e3b; }
+    background:url("https://d3l76hx23vw40a.cloudfront.net/recipe/ck62-012.jpg");
+    background-size:cover;
   .tile.tile-128 .tile-inner {
     color: #f9f6f2;
     background: #edcf72;
